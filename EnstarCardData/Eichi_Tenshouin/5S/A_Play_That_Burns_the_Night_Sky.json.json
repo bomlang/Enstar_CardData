@@ -1,0 +1,92 @@
+{
+  "name": "(A Play That Burns the Night Sky) Eichi Tenshouin",
+  "korean_name": "[밤하늘 불태우는 장난] 텐쇼인 에이치",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/8/80/%28A_Play_That_Burns_the_Night_Sky%29_Eichi_Tenshouin_B.png/revision/latest?cb=20231202184953",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/4/46/%28A_Play_That_Burns_the_Night_Sky%29_Eichi_Tenshouin_B_Bloomed.png/revision/latest?cb=20231202185005",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "10,160"
+      },
+      {
+        "Vo": "7,380"
+      },
+      {
+        "Pf": "7,930"
+      },
+      {
+        "All": "25,470"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "43,050"
+      },
+      {
+        "Vo": "26,000"
+      },
+      {
+        "Pf": "26,230"
+      },
+      {
+        "All": "95,280"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ]
+  }
+}

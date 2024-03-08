@@ -1,0 +1,92 @@
+{
+  "name": "(Unbridled Existence) Wataru Hibiki",
+  "korean_name": "[구속받지 않는 존재] 히비키 와타루",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/6/68/%28Unbridled_Existence%29_Wataru_Hibiki_B.png/revision/latest?cb=20221222190045",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/2/21/%28Unbridled_Existence%29_Wataru_Hibiki_B_Bloomed.png/revision/latest?cb=20221222190042",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "42,393"
+      },
+      {
+        "Vo": "24,125"
+      },
+      {
+        "Pf": "29,114"
+      },
+      {
+        "All": "95,632"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "49,979"
+      },
+      {
+        "Vo": "27,922"
+      },
+      {
+        "Pf": "31,726"
+      },
+      {
+        "All": "109,627"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "60,295"
+      },
+      {
+        "Vo": "29,209"
+      },
+      {
+        "Pf": "35,819"
+      },
+      {
+        "All": "125,323"
+      }
+    ]
+  }
+}

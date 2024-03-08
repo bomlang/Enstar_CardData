@@ -1,0 +1,92 @@
+{
+  "name": "(Waltz Expectation) Eichi Tenshouin",
+  "korean_name": "[왈츠의 속셈] 텐쇼인 에이치",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Waltz_Expectation%29_Eichi_Tenshouin_B.png/revision/latest?cb=20230205034629",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/2/20/%28Waltz_Expectation%29_Eichi_Tenshouin_B_Bloomed.png/revision/latest?cb=20230205034627",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "47,430"
+      },
+      {
+        "Vo": "20,785"
+      },
+      {
+        "Pf": "23,030"
+      },
+      {
+        "All": "91,245"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "52,516"
+      },
+      {
+        "Vo": "21,016"
+      },
+      {
+        "Pf": "25,489"
+      },
+      {
+        "All": "99,021"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "57,623"
+      },
+      {
+        "Vo": "21,247"
+      },
+      {
+        "Pf": "25,759"
+      },
+      {
+        "All": "104,629"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "64,049"
+      },
+      {
+        "Vo": "21,478"
+      },
+      {
+        "Pf": "26,028"
+      },
+      {
+        "All": "111,555"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "67,606"
+      },
+      {
+        "Vo": "22,829"
+      },
+      {
+        "Pf": "28,748"
+      },
+      {
+        "All": "119,183"
+      }
+    ]
+  }
+}

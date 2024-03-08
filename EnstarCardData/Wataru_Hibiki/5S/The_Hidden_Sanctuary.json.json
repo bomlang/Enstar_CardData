@@ -1,0 +1,92 @@
+{
+  "name": "(The Hidden Sanctuary) Wataru Hibiki",
+  "korean_name": "[은닉 생츄어리] 히비키 와타루",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/c/ce/%28The_Hidden_Sanctuary%29_Wataru_Hibiki_B.png/revision/latest?cb=20211002232038",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/2/2c/%28The_Hidden_Sanctuary%29_Wataru_Hibiki_B_Bloomed.png/revision/latest?cb=20211230010338",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "5,890"
+      },
+      {
+        "Vo": "6,520"
+      },
+      {
+        "Pf": "8,190"
+      },
+      {
+        "All": "20,600"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "25,084"
+      },
+      {
+        "Vo": "26,507"
+      },
+      {
+        "Pf": "43,201"
+      },
+      {
+        "All": "94,792"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "25,938"
+      },
+      {
+        "Vo": "28,609"
+      },
+      {
+        "Pf": "48,074"
+      },
+      {
+        "All": "102,621"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "26,794"
+      },
+      {
+        "Vo": "30,883"
+      },
+      {
+        "Pf": "50,048"
+      },
+      {
+        "All": "107,725"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "27,649"
+      },
+      {
+        "Vo": "31,606"
+      },
+      {
+        "Pf": "54,701"
+      },
+      {
+        "All": "113,956"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "29,745"
+      },
+      {
+        "Vo": "33,440"
+      },
+      {
+        "Pf": "59,075"
+      },
+      {
+        "All": "122,260"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "(The Burning Star of Hope) Eichi Tenshouin",
+  "korean_name": "[타오르는 소망의 별] 텐쇼인 에이치",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/2/28/%28The_Burning_Star_of_Hope%29_Eichi_Tenshouin_B.png/revision/latest?cb=20230514184444",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e0/%28The_Burning_Star_of_Hope%29_Eichi_Tenshouin_B_Bloomed.png/revision/latest?cb=20230514184440",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "6,070"
+      },
+      {
+        "Vo": "8,920"
+      },
+      {
+        "Pf": "5,700"
+      },
+      {
+        "All": "20,690"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "26,273"
+      },
+      {
+        "Vo": "42,514"
+      },
+      {
+        "Pf": "23,407"
+      },
+      {
+        "All": "92,194"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "28,345"
+      },
+      {
+        "Vo": "46,472"
+      },
+      {
+        "Pf": "25,400"
+      },
+      {
+        "All": "100,217"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "30,578"
+      },
+      {
+        "Vo": "49,531"
+      },
+      {
+        "Pf": "26,074"
+      },
+      {
+        "All": "106,183"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "31,460"
+      },
+      {
+        "Vo": "54,119"
+      },
+      {
+        "Pf": "27,987"
+      },
+      {
+        "All": "113,566"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "32,344"
+      },
+      {
+        "Vo": "59,729"
+      },
+      {
+        "Pf": "29,922"
+      },
+      {
+        "All": "121,995"
+      }
+    ]
+  }
+}

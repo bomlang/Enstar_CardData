@@ -1,0 +1,92 @@
+{
+  "name": "(Spring Breeze) Eichi Tenshouin",
+  "korean_name": "[봄의 숨결] 텐쇼인 에이치",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/6/64/%28Spring_Breeze%29_Eichi_Tenshouin_B.png/revision/latest?cb=20210413224029",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Spring_Breeze%29_Eichi_Tenshouin_B_Bloomed.png/revision/latest?cb=20210430210253",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "9,540"
+      },
+      {
+        "Vo": "4,720"
+      },
+      {
+        "Pf": "5,140"
+      },
+      {
+        "All": "19,400"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "43,724"
+      },
+      {
+        "Vo": "23,433"
+      },
+      {
+        "Pf": "23,828"
+      },
+      {
+        "All": "90,985"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "50910"
+      },
+      {
+        "Vo": "23928"
+      },
+      {
+        "Pf": "24367"
+      },
+      {
+        "All": "99,205"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "54208"
+      },
+      {
+        "Vo": "24423"
+      },
+      {
+        "Pf": "26226"
+      },
+      {
+        "All": "104,857"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "57625"
+      },
+      {
+        "Vo": "26188"
+      },
+      {
+        "Pf": "28155"
+      },
+      {
+        "All": "111,968"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "62,243"
+      },
+      {
+        "Vo": "27,843"
+      },
+      {
+        "Pf": "30,064"
+      },
+      {
+        "All": "120,150"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "(Snow White Brim) Tori Himemiya",
+  "korean_name": "[순백의 브림] 히메미야 토리",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Snow_White_Brim%29_Tori_Himemiya_B.png/revision/latest?cb=20230514171323",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/%28Snow_White_Brim%29_Tori_Himemiya_B_Bloomed.png/revision/latest?cb=20230514171318",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "4,910"
+      },
+      {
+        "Vo": "9,410"
+      },
+      {
+        "Pf": "5,090"
+      },
+      {
+        "All": "19,410"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "21,997"
+      },
+      {
+        "Vo": "46,716"
+      },
+      {
+        "Pf": "22,571"
+      },
+      {
+        "All": "91,284"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "22,774"
+      },
+      {
+        "Vo": "50,713"
+      },
+      {
+        "Pf": "26,279"
+      },
+      {
+        "All": "99,766"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "22,713"
+      },
+      {
+        "Vo": "53,341"
+      },
+      {
+        "Pf": "26,237"
+      },
+      {
+        "All": "102,291"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "25,881"
+      },
+      {
+        "Vo": "57,458"
+      },
+      {
+        "Pf": "29,245"
+      },
+      {
+        "All": "112,584"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "26,660"
+      },
+      {
+        "Vo": "61,606"
+      },
+      {
+        "Pf": "32,843"
+      },
+      {
+        "All": "121,109"
+      }
+    ]
+  }
+}

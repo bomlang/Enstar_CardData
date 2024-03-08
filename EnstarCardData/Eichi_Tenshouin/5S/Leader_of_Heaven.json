@@ -1,0 +1,92 @@
+{
+  "name": "(Leader of Heaven) Eichi Tenshouin",
+  "korean_name": "[천상의 리더] 텐쇼인 에이치",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cc/%28Leader_of_Heaven%29_Eichi_Tenshouin_B.png/revision/latest?cb=20200420103959",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/6/63/%28Leader_of_Heaven%29_Eichi_Tenshouin_B_Bloomed.png/revision/latest?cb=20210629042128",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "5,710"
+      },
+      {
+        "Vo": "4,170"
+      },
+      {
+        "Pf": "7,860"
+      },
+      {
+        "All": "17,740"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "27,623"
+      },
+      {
+        "Vo": "18,072"
+      },
+      {
+        "Pf": "41,306"
+      },
+      {
+        "All": "87,001"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "29,991"
+      },
+      {
+        "Vo": "21,478"
+      },
+      {
+        "Pf": "44,097"
+      },
+      {
+        "All": "95,566"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "32,159"
+      },
+      {
+        "Vo": "22,265"
+      },
+      {
+        "Pf": "47,750"
+      },
+      {
+        "All": "102,174"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "33,237"
+      },
+      {
+        "Vo": "24,361"
+      },
+      {
+        "Pf": "52,022"
+      },
+      {
+        "All": "109,620"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "34,315"
+      },
+      {
+        "Vo": "27,778"
+      },
+      {
+        "Pf": "57,725"
+      },
+      {
+        "All": "119,818"
+      }
+    ]
+  }
+}

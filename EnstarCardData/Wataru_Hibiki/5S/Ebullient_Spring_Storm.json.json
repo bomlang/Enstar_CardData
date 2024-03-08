@@ -1,0 +1,92 @@
+{
+  "name": "(Ebullient Spring Storm) Wataru Hibiki",
+  "korean_name": "[활기찬 봄바람] 히비키 와타루",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/2/22/%28Ebullient_Spring_Storm%29_Wataru_Hibiki_B.png/revision/latest?cb=20200524143147",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28Ebullient_Spring_Storm%29_Wataru_Hibiki_B_Bloomed.png/revision/latest?cb=20200626221048",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "5,270"
+      },
+      {
+        "Vo": "9,340"
+      },
+      {
+        "Pf": "4,760"
+      },
+      {
+        "All": "19,370"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "18,698"
+      },
+      {
+        "Vo": "46,096"
+      },
+      {
+        "Pf": "24,982"
+      },
+      {
+        "All": "89,776"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "22,566"
+      },
+      {
+        "Vo": "49,749"
+      },
+      {
+        "Pf": "25,710"
+      },
+      {
+        "All": "98,025"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "23,686"
+      },
+      {
+        "Vo": "54,463"
+      },
+      {
+        "Pf": "26,439"
+      },
+      {
+        "All": "104,588"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "25,935"
+      },
+      {
+        "Vo": "56,846"
+      },
+      {
+        "Pf": "28,357"
+      },
+      {
+        "All": "111,138"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "27,055"
+      },
+      {
+        "Vo": "63,330"
+      },
+      {
+        "Pf": "29,087"
+      },
+      {
+        "All": "119,472"
+      }
+    ]
+  }
+}

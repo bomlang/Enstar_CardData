@@ -1,0 +1,92 @@
+{
+  "name": "(Peach Crystal) Tori Himemiya",
+  "korean_name": "[복숭아색의 크리스탈] 히메미야 토리",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c4/%28Peach_Crystal%29_Tori_Himemiya_B.png/revision/latest?cb=20201229220745",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Peach_Crystal%29_Tori_Himemiya_B_Bloomed.png/revision/latest?cb=20201229220739",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "4,460"
+      },
+      {
+        "Vo": "9,890"
+      },
+      {
+        "Pf": "4,420"
+      },
+      {
+        "All": "18,770"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "19,181"
+      },
+      {
+        "Vo": "46,956"
+      },
+      {
+        "Pf": "22,644"
+      },
+      {
+        "All": "88,781"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "19,929"
+      },
+      {
+        "Vo": "52,392"
+      },
+      {
+        "Pf": "26,005"
+      },
+      {
+        "All": "98,326"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "22,017"
+      },
+      {
+        "Vo": "55,140"
+      },
+      {
+        "Pf": "28,158"
+      },
+      {
+        "All": "105,315"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "22,765"
+      },
+      {
+        "Vo": "60,017"
+      },
+      {
+        "Pf": "30,150"
+      },
+      {
+        "All": "112,932"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "23,513"
+      },
+      {
+        "Vo": "63,925"
+      },
+      {
+        "Pf": "34,413"
+      },
+      {
+        "All": "121,851"
+      }
+    ]
+  }
+}

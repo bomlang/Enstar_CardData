@@ -1,0 +1,92 @@
+{
+  "name": "(An Inspiration for Someone Out There) Tori Himemiya",
+  "korean_name": "[누군가의 목표점] 히메미야 토리",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/9/95/%28An_Inspiration_for_Someone_Out_There%29_Tori_Himemiya_B.png/revision/latest?cb=20220917220330",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/5/5c/%28An_Inspiration_for_Someone_Out_There%29_Tori_Himemiya_B_Bloomed.png/revision/latest?cb=20220917220327",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "7,600"
+      },
+      {
+        "Vo": "6,680"
+      },
+      {
+        "Pf": "10,660"
+      },
+      {
+        "All": "24,940"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "27,642"
+      },
+      {
+        "Vo": "24,076"
+      },
+      {
+        "Pf": "43,405"
+      },
+      {
+        "All": "95,123"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "28,087"
+      },
+      {
+        "Vo": "25,101"
+      },
+      {
+        "Pf": "50,690"
+      },
+      {
+        "All": "103,878"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "29,663"
+      },
+      {
+        "Vo": "27,537"
+      },
+      {
+        "Pf": "52,346"
+      },
+      {
+        "All": "109,546"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "31,618"
+      },
+      {
+        "Vo": "28,562"
+      },
+      {
+        "Pf": "56,231"
+      },
+      {
+        "All": "116,411"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "32,064"
+      },
+      {
+        "Vo": "30,779"
+      },
+      {
+        "Pf": "62,307"
+      },
+      {
+        "All": "125,150"
+      }
+    ]
+  }
+}

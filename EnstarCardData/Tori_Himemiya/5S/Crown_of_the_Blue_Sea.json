@@ -1,0 +1,92 @@
+{
+  "name": "(Crown of the Blue Sea) Tori Himemiya",
+  "korean_name": "[창해의 왕관] 히메미야 토리",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/2/24/%28Crown_of_the_Blue_Sea%29_Tori_Himemiya_B.png/revision/latest?cb=20231028173647",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/9/9c/%28Crown_of_the_Blue_Sea%29_Tori_Himemiya_B_Bloomed.png/revision/latest?cb=20231028173640",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "5,310"
+      },
+      {
+        "Vo": "11,160"
+      },
+      {
+        "Pf": "6,390"
+      },
+      {
+        "All": "22,860"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "19,761"
+      },
+      {
+        "Vo": "47,610"
+      },
+      {
+        "Pf": "25,012"
+      },
+      {
+        "All": "92,383"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "20,245"
+      },
+      {
+        "Vo": "54,948"
+      },
+      {
+        "Pf": "25,025"
+      },
+      {
+        "All": "100,218"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "20,729"
+      },
+      {
+        "Vo": "57,346"
+      },
+      {
+        "Pf": "27,759"
+      },
+      {
+        "All": "105,834"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "22,283"
+      },
+      {
+        "Vo": "62,174"
+      },
+      {
+        "Pf": "27,772"
+      },
+      {
+        "All": "112,229"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "24,007"
+      },
+      {
+        "Vo": "66,992"
+      },
+      {
+        "Pf": "28,987"
+      },
+      {
+        "All": "119,986"
+      }
+    ]
+  }
+}

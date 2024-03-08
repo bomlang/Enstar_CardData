@@ -1,0 +1,92 @@
+{
+  "name": "(Red that Pierces Through the Clouds) Tori Himemiya",
+  "korean_name": "[먹구름을 비추는 빨강] 히메미야 토리",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/0/05/%28Red_that_Pierces_Through_the_Clouds%29_Tori_Himemiya_B.png/revision/latest?cb=20220227183825",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/4/4b/%28Red_that_Pierces_Through_the_Clouds%29_Tori_Himemiya_B_Bloomed.png/revision/latest?cb=20220612231458",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "8,730"
+      },
+      {
+        "Vo": "5,510"
+      },
+      {
+        "Pf": "6,390"
+      },
+      {
+        "All": "20,630"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "40,583"
+      },
+      {
+        "Vo": "25,907"
+      },
+      {
+        "Pf": "26,791"
+      },
+      {
+        "All": "93,281"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "46,004"
+      },
+      {
+        "Vo": "27,781"
+      },
+      {
+        "Pf": "27,737"
+      },
+      {
+        "All": "101,522"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "51,345"
+      },
+      {
+        "Vo": "29,797"
+      },
+      {
+        "Pf": "30,233"
+      },
+      {
+        "All": "111,375"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "52,786"
+      },
+      {
+        "Vo": "30,322"
+      },
+      {
+        "Pf": "31,179"
+      },
+      {
+        "All": "114,287"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "56,467"
+      },
+      {
+        "Vo": "32,348"
+      },
+      {
+        "Pf": "33,185"
+      },
+      {
+        "All": "122,000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "(The Origin of Legend) Eichi Tenshouin",
+  "korean_name": "[이야기의 원점] 텐쇼인 에이치",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/4/40/%28The_Origin_of_Legend%29_Eichi_Tenshouin_B.png/revision/latest?cb=20230714010105",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28The_Origin_of_Legend%29_Eichi_Tenshouin_B_Bloomed.png/revision/latest?cb=20230714010059",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "7,670"
+      },
+      {
+        "Vo": "11,050"
+      },
+      {
+        "Pf": "6,320"
+      },
+      {
+        "All": "25,040"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "24,935"
+      },
+      {
+        "Vo": "44,640"
+      },
+      {
+        "Pf": "24,817"
+      },
+      {
+        "All": "94,392"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "25,650"
+      },
+      {
+        "Vo": "49,846"
+      },
+      {
+        "Pf": "27,074"
+      },
+      {
+        "All": "102,570"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "26,365"
+      },
+      {
+        "Vo": "53,732"
+      },
+      {
+        "Pf": "27,982"
+      },
+      {
+        "All": "108,079"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "28,440"
+      },
+      {
+        "Vo": "57,658"
+      },
+      {
+        "Pf": "28,889"
+      },
+      {
+        "All": "114,987"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "29,155"
+      },
+      {
+        "Vo": "62,824"
+      },
+      {
+        "Pf": "31,307"
+      },
+      {
+        "All": "123,286"
+      }
+    ]
+  }
+}

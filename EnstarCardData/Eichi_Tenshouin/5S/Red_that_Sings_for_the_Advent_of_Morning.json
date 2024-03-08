@@ -1,0 +1,92 @@
+{
+  "name": "(Red that Sings for the Advent of Morning) Eichi Tenshouin",
+  "korean_name": "[아침을 노래하는 빨강] 텐쇼인 에이치",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Red_that_Sings_for_the_Advent_of_Morning%29_Eichi_Tenshouin_B.png/revision/latest?cb=20220227183834",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/c/cd/%28Red_that_Sings_for_the_Advent_of_Morning%29_Eichi_Tenshouin_B_Bloomed.png/revision/latest?cb=20230514170828",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "5,610"
+      },
+      {
+        "Vo": "6,700"
+      },
+      {
+        "Pf": "8,550"
+      },
+      {
+        "All": "20,860"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "25,788"
+      },
+      {
+        "Vo": "29,298"
+      },
+      {
+        "Pf": "39,012"
+      },
+      {
+        "All": "94,098"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "29,265"
+      },
+      {
+        "Vo": "29,853"
+      },
+      {
+        "Pf": "43,012"
+      },
+      {
+        "All": "102,130"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "30,313"
+      },
+      {
+        "Vo": "31,949"
+      },
+      {
+        "Pf": "45,663"
+      },
+      {
+        "All": "107,925"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "31,360"
+      },
+      {
+        "Vo": "33,664"
+      },
+      {
+        "Pf": "49,303"
+      },
+      {
+        "All": "114,327"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "32,409"
+      },
+      {
+        "Vo": "34,220"
+      },
+      {
+        "Pf": "56,054"
+      },
+      {
+        "All": "122,683"
+      }
+    ]
+  }
+}

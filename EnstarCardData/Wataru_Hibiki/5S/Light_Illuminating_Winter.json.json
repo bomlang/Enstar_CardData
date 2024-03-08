@@ -1,0 +1,92 @@
+{
+  "name": "(Light Illuminating Winter) Wataru Hibiki",
+  "korean_name": "[겨울을 비추는 빛] 히비키 와타루",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/8/85/%28Light_Illuminating_Winter%29_Wataru_Hibiki_B.png/revision/latest?cb=20211230010134",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Light_Illuminating_Winter%29_Wataru_Hibiki_B_Bloomed.png/revision/latest?cb=20220227183717",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "4,690"
+      },
+      {
+        "Vo": "9,590"
+      },
+      {
+        "Pf": "5,470"
+      },
+      {
+        "All": "19,750"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "21,079"
+      },
+      {
+        "Vo": "44,981"
+      },
+      {
+        "Pf": "21,528"
+      },
+      {
+        "All": "87,588"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "21,482"
+      },
+      {
+        "Vo": "50,366"
+      },
+      {
+        "Pf": "24,439"
+      },
+      {
+        "All": "96,287"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "23,027"
+      },
+      {
+        "Vo": "54,653"
+      },
+      {
+        "Pf": "24,780"
+      },
+      {
+        "All": "102,460"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "23,431"
+      },
+      {
+        "Vo": "60,379"
+      },
+      {
+        "Pf": "26,521"
+      },
+      {
+        "All": "110,331"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "25,106"
+      },
+      {
+        "Vo": "64,936"
+      },
+      {
+        "Pf": "29,592"
+      },
+      {
+        "All": "119,634"
+      }
+    ]
+  }
+}

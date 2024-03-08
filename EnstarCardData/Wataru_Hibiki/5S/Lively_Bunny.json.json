@@ -1,0 +1,92 @@
+{
+  "name": "(Lively Bunny) Wataru Hibiki",
+  "korean_name": "[라이블리 버니] 히비키 와타루",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Lively_Bunny%29_Wataru_Hibiki_B.png/revision/latest?cb=20220501204052",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/9/96/%28Lively_Bunny%29_Wataru_Hibiki_B_Bloomed.png/revision/latest?cb=20230514170256",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "-"
+      },
+      {
+        "Vo": "-"
+      },
+      {
+        "Pf": "-"
+      },
+      {
+        "All": "0"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "20,945"
+      },
+      {
+        "Vo": "21,840"
+      },
+      {
+        "Pf": "47,022"
+      },
+      {
+        "All": "89,807"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "23,452"
+      },
+      {
+        "Vo": "23,546"
+      },
+      {
+        "Pf": "50,894"
+      },
+      {
+        "All": "97,892"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "24,409"
+      },
+      {
+        "Vo": "23,893"
+      },
+      {
+        "Pf": "54,656"
+      },
+      {
+        "All": "102,958"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "25,366"
+      },
+      {
+        "Vo": "24,239"
+      },
+      {
+        "Pf": "60,238"
+      },
+      {
+        "All": "109,843"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "26,323"
+      },
+      {
+        "Vo": "24,586"
+      },
+      {
+        "Pf": "66,910"
+      },
+      {
+        "All": "117,819"
+      }
+    ]
+  }
+}

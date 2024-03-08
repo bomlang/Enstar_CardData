@@ -1,0 +1,92 @@
+{
+  "name": "(Aspiring Sweet Prince) Tori Himemiya",
+  "korean_name": "[동경하는 공주왕자] 히메미야 토리",
+  "unbloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/3/33/%28Aspiring_Sweet_Prince%29_Tori_Himemiya_B.png/revision/latest?cb=20201024180425",
+  "bloomed_card": "https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Aspiring_Sweet_Prince%29_Tori_Himemiya_B_Bloomed.png/revision/latest?cb=20210328213649",
+  "table_data": {
+    "Min:": [
+      {
+        "Da": "6,420"
+      },
+      {
+        "Vo": "5,700"
+      },
+      {
+        "Pf": "8,160"
+      },
+      {
+        "All": "20,280"
+      }
+    ],
+    "IR:": [
+      {
+        "Da": "25,546"
+      },
+      {
+        "Vo": "26,587"
+      },
+      {
+        "Pf": "39,340"
+      },
+      {
+        "All": "91,473"
+      }
+    ],
+    "IR1:": [
+      {
+        "Da": "26,299"
+      },
+      {
+        "Vo": "28,832"
+      },
+      {
+        "Pf": "44,569"
+      },
+      {
+        "All": "99,700"
+      }
+    ],
+    "IR2:": [
+      {
+        "Da": "28,313"
+      },
+      {
+        "Vo": "29,828"
+      },
+      {
+        "Pf": "48,350"
+      },
+      {
+        "All": "106,491"
+      }
+    ],
+    "IR3:": [
+      {
+        "Da": "29,066"
+      },
+      {
+        "Vo": "30,823"
+      },
+      {
+        "Pf": "53,730"
+      },
+      {
+        "All": "113,619"
+      }
+    ],
+    "IR4:": [
+      {
+        "Da": "32,690"
+      },
+      {
+        "Vo": "31,819"
+      },
+      {
+        "Pf": "57,481"
+      },
+      {
+        "All": "121,990"
+      }
+    ]
+  }
+}
